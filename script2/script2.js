@@ -7,7 +7,7 @@
 // let vincitore;
 // console.log(randGiocatore);
 // console.log(randComputer);
-In caso di vittoria del giocatore
+// In caso di vittoria del giocatore
 // if (randGiocatore > randComputer) {
 //   console.log(
 //     (vincitore =

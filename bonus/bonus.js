@@ -5,15 +5,15 @@
 // Javascript - JS
 
 // creazione d'un array vuto
-let myArray = [];
-let i = 0;
+// let myArray = [];
+// let i = 0;
 
-for (i = 0; i < 6; i++) {
-  // Richiedi un numero
-  let num = parseInt(prompt("Inserisci un numero"));
-  // Controlla se il numero è dispari
-  if (num % 2 !== 0) {
-    myArray.push(num);
-  }
-}
-console.log(myArray);
+// for (i = 0; i < 6; i++) {
+//   // Richiedi un numero
+//   let num = parseInt(prompt("Inserisci un numero"));
+//   // Controlla se il numero è dispari
+//   if (num % 2 !== 0) {
+//     myArray.push(num);
+//   }
+// }
+// console.log(myArray);
