@@ -5,9 +5,9 @@
 
 // Richiedi un numero
 
-// let n = parseInt(prompt("inserisci un numero"));
+let n = parseInt(prompt("inserisci un numero"));
 // // Fare il calcolo sul numero inserito e stamparlo.
-// while (!isNaN(n) && n !== 0) {
-//   console.log(Math.pow(n, 3));
-//   n--;
-// }
+while (!isNaN(n) && n !== 0) {
+  console.log(Math.pow(n, 3));
+  n--;
+}
